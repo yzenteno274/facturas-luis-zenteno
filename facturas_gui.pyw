@@ -95,8 +95,8 @@ font_section = ("Arial", 11, "bold")
 font_label = ("Arial", 10)
 font_button = ("Arial", 11, "bold")
 
-main_frame = tk.Frame(root, padx=12, pady=8)
-main_frame.pack(fill=tk.BOTH, expand=True)
+main_frame = tk.Frame(root)
+main_frame.pack(expand=True)
 
 tk.Label(main_frame, text="GENERADOR DE FACTURAS", font=font_title).grid(row=0, column=0, columnspan=6, pady=(0, 6))
 
