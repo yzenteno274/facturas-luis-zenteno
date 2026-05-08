@@ -3,3 +3,4 @@ facturas/*.pdf
 *.pyc
 .env
 facturas_db.csv
+*.pdf
