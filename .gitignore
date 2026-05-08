@@ -1,0 +1,4 @@
+__pycache__/
+facturas/*.pdf
+*.pyc
+.env
