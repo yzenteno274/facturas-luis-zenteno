@@ -2,3 +2,4 @@ __pycache__/
 facturas/*.pdf
 *.pyc
 .env
+facturas_db.csv
